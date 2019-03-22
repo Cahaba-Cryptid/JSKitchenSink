@@ -1,9 +1,15 @@
 let myName = 'Hayden';
 
-const usStates = '50';
+const usStates = '50 states';
 
-let val = 5 + 7;
+//The below variable adds 5 and 4.
+let val = 5 + 4;
 
-let favVeg = ['brussels sprouts','yellow onion', 'broccoli', ];
+let favVeg = ['brussels sprouts','yellow onion', 'broccoli', 'lima beans', 'spinach', 'arugula'];
+
+function sayHello('Hello World!') {
+    return sayHello;
+} 
+
 
 
