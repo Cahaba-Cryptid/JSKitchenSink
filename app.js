@@ -7,9 +7,9 @@ let val = 5 + 4;
 
 let favVeg = ['brussels sprouts','yellow onion', 'broccoli', 'lima beans', 'spinach', 'arugula'];
 
-function sayHello('Hello World!') {
-    return sayHello;
+function sayHello() {
+    alert('Hello World!');
 } 
 
-
+console.log(sayHello());
 
